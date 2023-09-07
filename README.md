@@ -13,9 +13,7 @@ I am a passionate developer with expertise in web and mobile application develop
 
   ## Cisco Cybersecurity Certificate
 
-- [![Cisco Badge](https://img.shields.io/badge/Cisco_Cybersecurity-Certificate-red?style=for-the-badge)](https://drive.google.com/file/d/1muLH1tYZGOVHyD6FbJmg1uGYum4T-AMr/view?usp=sharing)
-
-You can view my certificate [here](https://drive.google.com/file/d/1muLH1tYZGOVHyD6FbJmg1uGYum4T-AMr/view?usp=sharing).
+[![Cisco Badge](https://img.shields.io/badge/Cisco_Cybersecurity-Certificate-red?style=for-the-badge)](https://drive.google.com/file/d/1muLH1tYZGOVHyD6FbJmg1uGYum4T-AMr/view?usp=sharing)
 
 
 ## My Skills
