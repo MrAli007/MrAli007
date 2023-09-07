@@ -53,7 +53,4 @@ I am always eager to learn and take on new challenges. Let's collaborate and tur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-blue?style=for-the-badge&logo=linkedin)](YourLinkedInURL)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioURL-green?style=for-the-badge)](YourPortfolioURL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubURL-black?style=for-the-badge&logo=github)](YourGitHubURL)
 
