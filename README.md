@@ -12,14 +12,36 @@ I am a passionate developer with expertise in web and mobile application develop
 - 💻 Explored the world of low-level programming with **assembly language**.
 
  ## Certifications
+ 
 
 ### Cisco Cybersecurity Certificate
 
 [![Cisco Badge](https://img.shields.io/badge/Cisco_Cybersecurity-Certificate-red?style=for-the-badge)](https://drive.google.com/file/d/1muLH1tYZGOVHyD6FbJmg1uGYum4T-AMr/view?usp=sharing)
 
-### Front-end Development Certificate (Coursera)
+### Advance Cyber Security Certificate
 
-[![Front-end Development Badge](https://img.shields.io/badge/Front--end%20Development%20Certificate%20by%20Meta-YourBadgeColor?style=for-the-badge)](https://drive.google.com/file/d/1zDJBArnvCdUHDSCFGSNZVaHL-ZKDezq7/view?usp=sharing)
+[![Advance Cyber Security Badge](https://img.shields.io/badge/Advance%20Cyber%20Security-Certificate-red?style=for-the-badge)](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3305082/original/Muhammad_Ali_Arif20230910-248-6h8fiz.jpg)
+
+
+### Front-end Development Certificate 
+
+[![Front-end Development Badge](https://img.shields.io/badge/Front--end%20Development%20Certificate%20by%20Meta-FFA500?style=for-the-badge)](https://drive.google.com/file/d/1zDJBArnvCdUHDSCFGSNZVaHL-ZKDezq7/view?usp=sharing)
+
+
+
+### Android Application Development 
+
+[![Android Application Development Badge](https://img.shields.io/badge/Android%20Application%20Development-Certification-lightorange?style=for-the-badge&labelColor=lightorange)](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3298235/original/Muhammad_Ali_Arif20230909-70-170egaq.jpg)
+
+
+### Advance Marketing Certificate
+
+[![Advance Marketing Badge](https://img.shields.io/badge/Advance%20Marketing-Certificate-success?style=for-the-badge&labelColor=lightgreen&logoColor=white)](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3302885/original/Muhammad_Ali_Arif20230910-148-qdrj2o.jpg)
+
+
+### Ecommerce Website Certificate
+
+[![Ecommerce Website Badge](https://img.shields.io/badge/Ecommerce%20Website-Certificate-009688?style=for-the-badge&labelColor=009688&logoColor=white)](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3299450/original/Muhammad_Ali_Arif20230909-70-7a2l7c.jpg)
 
 
 ## My Skills
