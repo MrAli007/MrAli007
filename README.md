@@ -11,9 +11,15 @@ I am a passionate developer with expertise in web and mobile application develop
 - 📊 Skilled in **SQL** for database management.
 - 💻 Explored the world of low-level programming with **assembly language**.
 
-  ## Cisco Cybersecurity Certificate
+ ## Certifications
+
+### Cisco Cybersecurity Certificate
 
 [![Cisco Badge](https://img.shields.io/badge/Cisco_Cybersecurity-Certificate-red?style=for-the-badge)](https://drive.google.com/file/d/1muLH1tYZGOVHyD6FbJmg1uGYum4T-AMr/view?usp=sharing)
+
+### Front-end Development Certificate (Coursera)
+
+[![Front-end Development Badge](https://img.shields.io/badge/Front--end%20Development%20Certificate%20by%20Meta-YourBadgeColor?style=for-the-badge)](https://drive.google.com/file/d/1zDJBArnvCdUHDSCFGSNZVaHL-ZKDezq7/view?usp=sharing)
 
 
 ## My Skills
