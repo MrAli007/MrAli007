@@ -77,6 +77,7 @@ I am always eager to learn and take on new challenges. Let's collaborate and tur
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-blue?style=for-the-badge&logo=linkedin)](YourLinkedInURL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ali-arif-bb7111290)
+
 
 
